@@ -1,5 +1,5 @@
 module IonLinearAlgebra
 
-greet() = print("Hello World!")
+using LinearAlgebra
 
-end # module
+end
